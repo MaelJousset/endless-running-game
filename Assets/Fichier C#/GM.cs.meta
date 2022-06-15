@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d6acf7767cb64114f9819139c688312a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - coinObj: {instanceID: 0}
+  - obstacleObj: {instanceID: 0}
+  - capsuleObj: {instanceID: 0}
+  - PowerObj: {fileID: 306592175823621465, guid: 1bbf71d23340b1d499e5e93178a88dd9, type: 3}
+  - basicBloc: {instanceID: 0}
+  - Bleu_canObj: {fileID: 3423634873749175829, guid: 7e9854151f237b24ab481bc803b1aa81, type: 3}
+  - Red_canObj: {fileID: 3423634873749175829, guid: 37d48885880cfaf4bae2a8e7addf465c, type: 3}
+  - Yellow_canObj: {fileID: 3423634873749175829, guid: ef92d81d58a01f643a6f402ef29dfcfa, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
